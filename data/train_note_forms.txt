@@ -1,0 +1,32 @@
+ar|present|التشخيص الحالي هو [DX]. الطبيب رتّب [PROC] حسب الخطة.
+ar|present|المراجع عنده [DX] بشكل مؤكد، والطبيب طلب [PROC].
+ar|present|بعد الفحص، التشخيص المثبت في هالزيارة [DX]. تم جدولة [PROC].
+ar|present|الطبيب سجّل [DX] كحالة قائمة اليوم. مطلوب [PROC] للمتابعة.
+ar|historical|عنده تاريخ مرضي مع [DX] من سنوات. يُرتّب اليوم [PROC].
+ar|historical|[DX] كان موجود من فترة وورد بس في ملفه القديم. الخطة فيها [PROC].
+ar|historical|المعلومة عن [DX] تخص زيارة سابقة. الطبيب طلب [PROC] هالمرة.
+ar|historical|في التاريخ المرضي سبق تشخيصه بـ[DX]. اليوم طلبنا [PROC].
+ar|negated|بعد الفحص تبيّن إن الحالة ما تتوافق مع [DX]. الطبيب حط [PROC] ضمن الخطة.
+ar|negated|تقييم اليوم ينفي [DX]. المطلوب بعدها [PROC].
+ar|negated|الطبيب استبعد وجود [DX] بالفحص. الترتيب الحالي يتضمن [PROC].
+ar|negated|ما ثبت عند المراجع [DX] في التقييم الجديد. الخطة طلب [PROC].
+ar|suspected|الانطباع المبدئي هو احتمال [DX]. الطبيب يبي يرتب [PROC].
+ar|suspected|[DX] وارد بس ما تأكد للحين. انطلب [PROC] ضمن الخطة.
+ar|suspected|الطبيب شاك في [DX] ويواصل التقييم. طلب [PROC].
+ar|suspected|انذكر [DX] كاحتمال من ضمن التقييم. وفي الخطة [PROC].
+en|present|The current diagnosis is [DX]. The clinician ordered [PROC] for follow-up.
+en|present|The clinician established [DX] during today's assessment and ordered [PROC].
+en|present|[DX] was documented as an active condition. The plan calls for [PROC].
+en|present|On assessment, [DX] is confirmed. A request was placed for [PROC].
+en|historical|The patient has a past history of [DX]. The team arranged [PROC].
+en|historical|[DX] was documented years ago in the chart. The current plan calls for [PROC].
+en|historical|Prior records list [DX] as a past condition. The clinician ordered [PROC].
+en|historical|The reference to [DX] is from an earlier episode. The provider requested [PROC] today.
+en|negated|The clinician ruled out [DX]. Follow-up will include [PROC].
+en|negated|Today's findings do not establish [DX]. The clinician ordered [PROC].
+en|negated|[DX] is not supported by the current findings. The team requested [PROC].
+en|negated|The assessment excludes [DX]. The next step is [PROC].
+en|suspected|There is concern for [DX] but further evaluation is needed. The clinician ordered [PROC].
+en|suspected|[DX] is a possibility under review. The care team requested [PROC].
+en|suspected|Possible [DX] was noted in the assessment. The plan includes [PROC].
+en|suspected|The provider suspects [DX]. The follow-up request is for [PROC].

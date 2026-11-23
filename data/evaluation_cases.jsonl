@@ -1,0 +1,32 @@
+{"claim_id": "CLM-00289", "policy_id": "POL-LAB-01", "expected_review_required": true, "expected_review_reasons": ["missing_documentation"], "expected_missing_documents": ["clinical_note"]}
+{"claim_id": "CLM-00290", "policy_id": "POL-LAB-01", "expected_review_required": true, "expected_review_reasons": ["missing_documentation"], "expected_missing_documents": ["physician_order"]}
+{"claim_id": "CLM-00291", "policy_id": "POL-LAB-01", "expected_review_required": true, "expected_review_reasons": ["missing_documentation"], "expected_missing_documents": ["physician_order"]}
+{"claim_id": "CLM-00292", "policy_id": "POL-LAB-01", "expected_review_required": false, "expected_review_reasons": [], "expected_missing_documents": []}
+{"claim_id": "CLM-00293", "policy_id": "POL-LAB-01", "expected_review_required": false, "expected_review_reasons": [], "expected_missing_documents": []}
+{"claim_id": "CLM-00294", "policy_id": "POL-LAB-01", "expected_review_required": false, "expected_review_reasons": [], "expected_missing_documents": []}
+{"claim_id": "CLM-00295", "policy_id": "POL-LAB-01", "expected_review_required": false, "expected_review_reasons": [], "expected_missing_documents": []}
+{"claim_id": "CLM-00296", "policy_id": "POL-LAB-01", "expected_review_required": true, "expected_review_reasons": ["missing_documentation"], "expected_missing_documents": ["clinical_note"]}
+{"claim_id": "CLM-00297", "policy_id": "POL-CONS-02", "expected_review_required": true, "expected_review_reasons": ["missing_documentation"], "expected_missing_documents": ["clinical_note"]}
+{"claim_id": "CLM-00298", "policy_id": "POL-CONS-02", "expected_review_required": true, "expected_review_reasons": ["missing_documentation"], "expected_missing_documents": ["referral"]}
+{"claim_id": "CLM-00299", "policy_id": "POL-CONS-02", "expected_review_required": true, "expected_review_reasons": ["missing_documentation"], "expected_missing_documents": ["referral"]}
+{"claim_id": "CLM-00300", "policy_id": "POL-CONS-02", "expected_review_required": false, "expected_review_reasons": [], "expected_missing_documents": []}
+{"claim_id": "CLM-00301", "policy_id": "POL-CONS-02", "expected_review_required": false, "expected_review_reasons": [], "expected_missing_documents": []}
+{"claim_id": "CLM-00302", "policy_id": "POL-CONS-02", "expected_review_required": false, "expected_review_reasons": [], "expected_missing_documents": []}
+{"claim_id": "CLM-00303", "policy_id": "POL-CONS-02", "expected_review_required": false, "expected_review_reasons": [], "expected_missing_documents": []}
+{"claim_id": "CLM-00304", "policy_id": "POL-CONS-02", "expected_review_required": true, "expected_review_reasons": ["missing_documentation"], "expected_missing_documents": ["clinical_note"]}
+{"claim_id": "CLM-00305", "policy_id": "POL-THER-03", "expected_review_required": true, "expected_review_reasons": ["missing_documentation"], "expected_missing_documents": ["referral"]}
+{"claim_id": "CLM-00306", "policy_id": "POL-THER-03", "expected_review_required": true, "expected_review_reasons": ["missing_prior_authorization"], "expected_missing_documents": []}
+{"claim_id": "CLM-00307", "policy_id": "POL-THER-03", "expected_review_required": true, "expected_review_reasons": ["missing_prior_authorization"], "expected_missing_documents": []}
+{"claim_id": "CLM-00308", "policy_id": "POL-THER-03", "expected_review_required": true, "expected_review_reasons": ["missing_documentation", "missing_prior_authorization"], "expected_missing_documents": ["clinical_note"]}
+{"claim_id": "CLM-00309", "policy_id": "POL-THER-03", "expected_review_required": true, "expected_review_reasons": ["missing_documentation", "missing_prior_authorization"], "expected_missing_documents": ["referral"]}
+{"claim_id": "CLM-00310", "policy_id": "POL-THER-03", "expected_review_required": false, "expected_review_reasons": [], "expected_missing_documents": []}
+{"claim_id": "CLM-00311", "policy_id": "POL-THER-03", "expected_review_required": false, "expected_review_reasons": [], "expected_missing_documents": []}
+{"claim_id": "CLM-00312", "policy_id": "POL-THER-03", "expected_review_required": true, "expected_review_reasons": ["missing_documentation"], "expected_missing_documents": ["clinical_note"]}
+{"claim_id": "CLM-00313", "policy_id": "POL-MON-04", "expected_review_required": true, "expected_review_reasons": ["missing_documentation"], "expected_missing_documents": ["clinical_note"]}
+{"claim_id": "CLM-00314", "policy_id": "POL-MON-04", "expected_review_required": true, "expected_review_reasons": ["missing_documentation"], "expected_missing_documents": ["physician_order"]}
+{"claim_id": "CLM-00315", "policy_id": "POL-MON-04", "expected_review_required": true, "expected_review_reasons": ["missing_documentation"], "expected_missing_documents": ["physician_order"]}
+{"claim_id": "CLM-00316", "policy_id": "POL-MON-04", "expected_review_required": false, "expected_review_reasons": [], "expected_missing_documents": []}
+{"claim_id": "CLM-00317", "policy_id": "POL-MON-04", "expected_review_required": false, "expected_review_reasons": [], "expected_missing_documents": []}
+{"claim_id": "CLM-00318", "policy_id": "POL-MON-04", "expected_review_required": false, "expected_review_reasons": [], "expected_missing_documents": []}
+{"claim_id": "CLM-00319", "policy_id": "POL-MON-04", "expected_review_required": false, "expected_review_reasons": [], "expected_missing_documents": []}
+{"claim_id": "CLM-00320", "policy_id": "POL-MON-04", "expected_review_required": true, "expected_review_reasons": ["missing_documentation"], "expected_missing_documents": ["clinical_note"]}

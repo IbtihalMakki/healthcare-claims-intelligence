@@ -1,0 +1,20 @@
+ar|التقييم يدعم تشخيص [DIAGNOSIS:present:صداع توتري]. طلب الطبيب [PROCEDURE:ordered:استشارة طبيب أعصاب] للمتابعة.
+ar|السجل القديم يذكر [DIAGNOSIS:historical:نقص فيتامين د] من زيارة قبل سنتين. اليوم الخطة فيها [PROCEDURE:ordered:تحليل فيتامين د].
+ar|بعد المراجعة ما لقينا دليل يدعم وجود [DIAGNOSIS:negated:السكري من النوع الثاني]. الطبيب طلب [PROCEDURE:ordered:تحليل السكر التراكمي].
+ar|من الاحتمالات المطروحة [DIAGNOSIS:suspected:قصور الغدة الدرقية]. طلب الطبيب [PROCEDURE:ordered:تحليل هرمون الغدة الدرقية].
+ar|مع الأعراض الحالية، الطبيب ثبت [DIAGNOSIS:present:طنين الأذن]. قرر ترتيب [PROCEDURE:ordered:استشارة أنف وأذن وحنجرة].
+ar|في تقييم اليوم [DIAGNOSIS:negated:هبوط الضغط الانتصابي] غير مثبت، و[DIAGNOSIS:suspected:انخفاض ضغط الدم] لا يزال احتمال. انطلبت [PROCEDURE:ordered:متابعة ضغط الدم في الصباح والمساء].
+ar|من واقع الملف عنده تاريخ سابق لـ[DIAGNOSIS:historical:ألم أسفل الظهر]. خطة اليوم فيها [PROCEDURE:ordered:تقييم علاج طبيعي للظهر].
+ar|الطبيب وثّق [DIAGNOSIS:present:التهاب أوتار الكتف] في الزيارة الحالية، ورتب [PROCEDURE:ordered:تقييم علاج طبيعي للكتف].
+ar|الملاحظة القديمة تذكر [DIAGNOSIS:historical:التهاب الجلد]، واليوم فيه احتمال [DIAGNOSIS:suspected:حساسية تلامسية]. مطلوب [PROCEDURE:ordered:استشارة طبيب جلدية].
+ar|المراجع ما عنده [DIAGNOSIS:negated:خفقان القلب] في الوقت الحالي. الطبيب طلب [PROCEDURE:ordered:استشارة طبيب قلب] للمراجعة.
+ar|ما زال الطبيب يفكر في [DIAGNOSIS:suspected:فقر الدم بنقص الحديد]. ضمن الخطة [PROCEDURE:ordered:صورة الدم الكاملة].
+ar|التشخيص الحالي [DIAGNOSIS:present:ارتفاع ضغط الدم]. الانطباع السابق عن [DIAGNOSIS:negated:انخفاض ضغط الدم] غير مدعوم اليوم. انطلبت [PROCEDURE:ordered:متابعة قياسات الضغط بالبيت].
+en|The working diagnosis today is [DIAGNOSIS:present:tension headache]. A [PROCEDURE:ordered:neurology consultation] was requested.
+en|The intake form records remote [DIAGNOSIS:historical:vitamin D deficiency]. The clinician ordered a [PROCEDURE:ordered:repeat vitamin D level].
+en|The findings make [DIAGNOSIS:negated:type 2 diabetes] unlikely. The plan includes [PROCEDURE:ordered:HbA1c testing].
+en|The clinician is evaluating for possible [DIAGNOSIS:suspected:hypothyroidism] and ordered [PROCEDURE:ordered:TSH testing].
+en|The previous chart documents [DIAGNOSIS:historical:dermatitis]. The physician is now considering [DIAGNOSIS:suspected:contact allergy] and ordered a [PROCEDURE:ordered:dermatology consultation].
+en|The clinician confirmed [DIAGNOSIS:present:right shoulder pain] and requested a [PROCEDURE:ordered:physical therapy assessment for the shoulder].
+en|There was no evidence of [DIAGNOSIS:negated:orthostatic hypotension] today. The team requested [PROCEDURE:ordered:twice-daily blood pressure monitoring].
+en|Only [DIAGNOSIS:suspected:iron deficiency anemia] was listed as a possibility. The clinician requested [PROCEDURE:ordered:complete blood count].

@@ -1,0 +1,58 @@
+[
+  {
+    "policy_id": "POL-LAB-01",
+    "title_en": "Lab documentation requirement",
+    "title_ar": "متطلبات توثيق التحاليل",
+    "text_en": "For laboratory procedures, a clinical note and physician order must be attached.",
+    "text_ar": "للتحاليل المخبرية، يجب إرفاق ملاحظة سريرية وطلب من الطبيب.",
+    "rule_type": "required_documents",
+    "procedure_group": "lab",
+    "required_documents": [
+      "clinical_note",
+      "physician_order"
+    ],
+    "requires_prior_auth": false
+  },
+  {
+    "policy_id": "POL-CONS-02",
+    "title_en": "Consultation documentation requirement",
+    "title_ar": "متطلبات توثيق الاستشارات",
+    "text_en": "For specialist consultations, a clinical note and referral must be attached.",
+    "text_ar": "للاستشارات التخصصية، يجب إرفاق ملاحظة سريرية وإحالة.",
+    "rule_type": "required_documents",
+    "procedure_group": "consultation",
+    "required_documents": [
+      "clinical_note",
+      "referral"
+    ],
+    "requires_prior_auth": false
+  },
+  {
+    "policy_id": "POL-THER-03",
+    "title_en": "Therapy authorization",
+    "title_ar": "الموافقة المسبقة للعلاج",
+    "text_en": "Physical therapy assessment requires a clinical note, referral, and prior authorization.",
+    "text_ar": "يتطلب تقييم العلاج الطبيعي ملاحظة سريرية وإحالة وموافقة مسبقة.",
+    "rule_type": "prior_authorization",
+    "procedure_group": "therapy",
+    "required_documents": [
+      "clinical_note",
+      "referral"
+    ],
+    "requires_prior_auth": true
+  },
+  {
+    "policy_id": "POL-MON-04",
+    "title_en": "Routine monitoring documentation",
+    "title_ar": "توثيق المتابعة الدورية",
+    "text_en": "Routine blood pressure monitoring requires a clinical note and physician order.",
+    "text_ar": "تتطلب متابعة ضغط الدم ملاحظة سريرية وطلب طبيب.",
+    "rule_type": "required_documents",
+    "procedure_group": "monitoring",
+    "required_documents": [
+      "clinical_note",
+      "physician_order"
+    ],
+    "requires_prior_auth": false
+  }
+]

@@ -1,0 +1,209 @@
+[coverage_inquiry]
+ar|سعر الأشعة كامل داخل حدود التغطية ولا أدفع منها شي؟
+ar|خطتي تشمل الجهاز اللي وصفه لي الطبيب؟
+ar|لو سويت تحليل الحساسية في مختبر مستقل، التأمين يتكفل فيه؟
+ar|هل الكشف عند أخصائي تغذية من ضمن المنافع؟
+ar|الوثيقة تدفع عني قيمة الفحص الدوري؟
+ar|فيه تغطية للأدوية اللي أصرفها من صيدلية العيادة؟
+ar|هذا المستوصف يعتبر من المستشفيات اللي تقبل باقتي؟
+ar|الخدمة المطلوبة مكتوبة في جدول المنافع ولا مستثناة؟
+ar|خياري أسوي الفحص في مركز خاص، يشمله عقد التأمين؟
+ar|هل عندي منفعة للأسنان لو احتجت تنظيف؟
+ar|لو احتجت أشعة إضافية في نفس اليوم، التأمين يغطيها؟
+ar|استفادة ابني من علاج النطق ضمن باقة العائلة؟
+en|Will the insurer pay toward the cost of this procedure?
+en|Is this outpatient service covered under my plan?
+en|Are hearing aids included in the benefits I signed up for?
+en|Is this provider in the network listed on my policy?
+en|Does my policy exclude routine dental cleanings?
+en|Can I get this diagnostic service covered at a different clinic?
+[eligibility_check]
+ar|تقدرون تشيّكون على عضويتي إذا لسه سارية؟
+ar|آخر يوم في اشتراك العائلة كان متى؟
+ar|بولادة الطفل متى ينضاف عندي في نظام التأمين؟
+ar|رقمي الوظيفي تغير، هل تسجيلي كمؤمّن عليه فعّال؟
+ar|ما أدري إذا الشغل جدد البوليصة، هل اسمي موجود حاليًا؟
+ar|المؤمن عليه طلع من القائمة في النظام، ممكن تتأكدون من أهليته؟
+ar|اشتراكي يبدأ هذا الشهر أو الشهر الجاي؟
+ar|أبغى أتأكد من تاريخ تفعيل عضوية ولدي.
+ar|هل أقدر أستفيد من الوثيقة بتاريخ آخر يوم في الدوام؟
+ar|كان فيه انقطاع بين وثيقتين، هل عضويتي سارية في ذاك التاريخ؟
+ar|البطاقة الجديدة وصلتنا، متى يصير رقم العضوية شغّال؟
+ar|افحصوا لي إذا أمي مسجلة كمعالة على حسابي.
+en|Which dates was I enrolled under my employer plan?
+en|Is my child listed as a covered dependent right now?
+en|When does my membership become effective?
+en|Did my enrollment end when I left the company?
+en|Is the member number on this card still valid?
+en|Can you confirm the date my policy goes active?
+[claim_status]
+ar|رفعت طلب تعويض عن الأشعة، بان في النظام أو للحين؟
+ar|قالوا ملفي عند موظف المطالبات، صار عليه تحديث اليوم؟
+ar|فيه خبر عن التعويض اللي قدمناه بعد زيارة العظام؟
+ar|مطالبة التحاليل مر عليها شهر، وين وصل الفرز؟
+ar|ملفنا رجعنا أرسلناه أمس، دخل طابور المعالجة؟
+ar|أبغى أعرف إذا دقّقتوا طلب الاسترداد اللي رفعت الأسبوع الماضي.
+ar|ممكن تعطوني آخر حالة لمطالبة الكشف قبل ما أرجع للمركز؟
+ar|جاكم طلب تعويض من المستشفى باسمي ولا ما وصل؟
+ar|ودي أعرف إذا خلصت إجراءات المطالبة من القسم المالي.
+ar|عطوني رقم مرجعي للملف، كيف أشيّك على تقدمه؟
+ar|هل مطالبة العيادة تمشي عادي أو معلقة عند أحد الأقسام؟
+ar|من التطبيق تظهر رفع ناجح بس ما أدري وين صار ملف المطالبة.
+en|Is my reimbursement claim still waiting to be reviewed?
+en|The hospital submitted the paperwork on my behalf. Can you confirm receipt?
+en|Did the claim move from intake to adjudication yet?
+en|Where do I look up the status of the claim I sent?
+en|Has the reviewer picked up the claim I resubmitted?
+en|My claim confirmation came through, but I have not seen an update.
+[prior_authorization]
+ar|قالوا ما يبدون الجلسات حتى يطلع تصريح، كيف أشيّك عليه؟
+ar|تصوير الظهر يحتاج إذن مسبق قبل أراجع المركز؟
+ar|طلب الإذن كان للمركز القديم، ينفع أنقله للمركز الجديد؟
+ar|لو غير الطبيب نوع الفحص هل نرفع طلب موافقة ثاني؟
+ar|متى ينتهي رقم التفويض لخطة العلاج؟
+ar|أقدر أتابع طلب موافقة العملية مع شركة التأمين؟
+ar|مين يتولى الحصول على التصريح قبل موعد الأشعة؟
+ar|العيادة ما عندها رقم الموافقة، فين يطلع في حسابي؟
+ar|إذا زدنا جلستين على الخطة، لازم إذن جديد؟
+ar|قدمت المستشفى للتصريح من يومين، فيه رد منهم؟
+ar|تأجلت العملية لشهر ثاني، هل الموافقة السابقة تنفع؟
+ar|التغطية موجودة، بس هل لازم آخذ موافقة قبل الفحص؟
+en|Is insurer approval necessary before I schedule the scan?
+en|Can my provider extend the authorization to cover an extra visit?
+en|Has the insurer assigned an approval number to this request?
+en|Should I ask the clinic to submit the preapproval request?
+en|Does rescheduling invalidate the authorization I received?
+en|When does the approval for this treatment expire?
+[denial_reason]
+ar|المطالبة مرفوضة والرسالة ما شرحت لي السبب.
+ar|وش معنى رمز عدم الاستحقاق المكتوب على المطالبة؟
+ar|تبرير عدم الصرف يقول بند غير مستوفى، يقصدون أي بند؟
+ar|مع إني رفعت كل الأوراق، ليه ما قبلوا ملف التعويض؟
+ar|إشعار الرفض جاني بعد زيارة العيون، وش تفسير القرار؟
+ar|أبي أعرف سبب عدم دفع مطالبة العلاج.
+ar|ليه طلب استرداد قيمة الدواء ترجع غير مقبول؟
+ar|ظهر لي رفض كامل لطلب الطوارئ، هل توضحون سببه؟
+ar|هل مبلغ المطالبة انرفض بسبب إجراء خارج الباقة؟
+ar|المركز ما يعرف ليه التأمين رفض المطالبة، تقدرون تشرحون؟
+ar|أي شرط اعتمد عليه الموظف لما رفض المبلغ؟
+ar|فيه رمز في خطاب عدم التعويض ما فهمت معناه.
+en|What explanation did the insurer give for rejecting the claim?
+en|I need to understand the basis for a partial denial.
+en|What does the reason code printed on my denial notice mean?
+en|The claim was refused even though the form was complete. Why?
+en|Can you identify the clause cited in the rejection?
+en|Why were the emergency visit charges excluded from reimbursement?
+[appeal_request]
+ar|وش الخطوات عشان أرفع اعتراض على رفض التعويض؟
+ar|الحين صدر القرار، وين أقدم طلب إعادة نظر؟
+ar|عندي تقرير إضافي وأبي أرسله مع الاعتراض، وش الطريقة؟
+ar|فيه مدة محددة أقدر خلالها أعترض على المطالبة؟
+ar|أبغى أرفع تظلم على قرار شركة التأمين.
+ar|أنا أعترض على مبلغ التعويض، وين أفتح ملف الاعتراض؟
+ar|ما اقتنعت بالرفض وأبغى أطلب إعادة تقييم القرار.
+ar|أقدر أعترض عن أمي إذا هي صاحبة المطالبة؟
+ar|رفعت تظلم رسمي، كيف أتابع حالته؟
+ar|هل فيه نموذج أعبّيه عشان أعترض؟
+ar|أرسل طلب المراجعة بالإيميل أو فيه رابط مخصوص؟
+ar|قفلوا القرار، هل باقي مجال أطلب مراجعة من جديد؟
+en|How long do I have to challenge the decision?
+en|Can you tell me where to submit a formal appeal?
+en|I want to dispute the denial on behalf of a family member.
+en|Where can I see the review status of the appeal I filed?
+en|Can I upload an additional medical report to support my appeal?
+en|Is there a reconsideration form for this claim decision?
+[document_requirement]
+ar|وش أرفق مع طلب استرداد سعر الدواء؟
+ar|يبغون أصل الإحالة أو تكفي صورة واضحة؟
+ar|قالوا المرفقات ناقصة، وش المستند المطلوب للعيادة؟
+ar|خطاب التحويل لازم يكون مختوم عشان يمشي؟
+ar|مع طلب التعويض يكفي تقرير الزيارة ولا فيه نموذج ثاني؟
+ar|الصورة ما انقبلت، وش الصيغة اللي تفتح عندكم؟
+ar|التقرير طلع إنجليزي، لازم أرسل ترجمة معه؟
+ar|هل أرفع الوصفة والفاتورة في مرفق واحد؟
+ar|لو فقدت فاتورة الدفع وش البديل اللي تقبلونه؟
+ar|وش يكتب الطبيب في تقرير المطالبة عشان يكون مكتمل؟
+ar|هل لازم نسخة من وصفة الدواء مع إيصال الصيدلية؟
+ar|هل أرفق هوية المؤمن عليه مع مستندات ملف المطالبة؟
+en|What paperwork has to accompany my claim form?
+en|Do I need the original referral or is a scan acceptable?
+en|Which document was marked missing from the file?
+en|What details must the clinician put on the supporting report?
+en|Is a translated copy required if the report is in another language?
+en|Can the receipt serve as proof of payment for this submission?
+[billing_question]
+ar|الفاتورة حاسبة نفس التحليل مرتين، ممكن تراجعونها؟
+ar|كم الجزء اللي دفعته أنا وكم دفع التأمين؟
+ar|السداد ظاهر في بطاقتي لكن حساب المركز للحين عليه مبلغ.
+ar|وش رسوم الخدمة اللي انضافت فوق قيمة الكشف؟
+ar|أبغى كشف تفصيلي يبين كل بند في فاتورتي.
+ar|صار خصم على حسابي بعد ما طلعت، على أي بند؟
+ar|دفعت زيادة قبل موعدي وانلغى، كيف يرجع مبلغي؟
+ar|من وين طلع فرق المبلغ بين الورقة والتطبيق؟
+ar|مكتوب رسوم إدارية في فاتورة الزيارة، وش المقصود؟
+ar|كم حسبوا نسبة التحمل على جلسة التأهيل؟
+ar|المحاسب خصم لي مبلغ ومو ظاهر في كشف الحساب.
+ar|مين يصحح رصيد الفاتورة إذا أنا سددتها قبل؟
+en|Could you give me the line items behind this balance?
+en|Why was my credit card charged twice for the same service?
+en|Which charges were assigned to me after insurance paid?
+en|I already paid this invoice, but my statement still shows a balance.
+en|How much of the clinic charge is my copay?
+en|When will the billing adjustment appear on my statement?
+
+[coverage_inquiry]
+ar|قبل أسوي الإجراء، ودي أتأكد إنه محسوب ضمن مزايا وثيقتي
+ar|وثيقتي سارية بس أبي أعرف هل الإصلاح الجراحي على حساب التأمين
+ar|التأمين يدفع شي من تكلفة جلسة النطق أو كلها عليّ؟
+ar|المركز طلب تصريح بس هل التأمين أصلا يغطي سعر الجهاز؟
+ar|سويت كشف وما قدمت مطالبة، بس أبي أعرف لو يشمله العقد
+ar|هل إجراء سحب العينة مشمول بالباقة الأساسية؟
+[eligibility_check]
+ar|قبل أروح للمركز أبي أضمن إن اشتراكي ما انتهى
+ar|عضويتي مفعلة للآن حتى بعد تغيير صاحب العمل؟
+ar|جلستي الخميس، هل بطاقة التأمين بتكون سارية يوم الموعد؟
+ar|أبغى أعرف تاريخ انتهاء وثيقة ولدي قبل حجز الكشف
+ar|المستشفى يقول ما لقوا اسمي في قائمة الأعضاء، هل تسجيلي فعّال؟
+ar|الاسم على البطاقة تغير، هل هذا الرقم لا زال مربوط بعضويتي؟
+[claim_status]
+ar|عندي أكثر من طلب في نفس اليوم، اللي يخص الاستشارة انتهى التدقيق عليه؟
+ar|خلصتوا مراجعة الطلب المالي عن تصوير الظهر أو لسه؟
+ar|أبي أعرف إذا تصفيتوا من مراجعة المطالبة الخاصة بجلسة النطق
+ar|المستندات مرفوعة من أسبوع، طلب التعويض باقي عند أي قسم؟
+ar|أرسلت مطالبة حساب استشارة الجهاز الهضمي، وش آخر إجراء صار عليها؟
+ar|طلب استرداد الزيارة طلع من التدقيق ولا باقي ينتظر؟
+[prior_authorization]
+ar|الجهاز داخل التغطية بس المركز يقول نحتاج إذن مسبق للتركيب
+ar|قبل يبدأ العلاج هل العيادة لازم تستأذن التأمين؟
+ar|عندي جلسة نطق، مين يطلب التصريح عنها قبل الموعد؟
+ar|هل لازم موافقة على إجراء سحب العينة قبل ما يسوونه؟
+ar|التأمين يغطي العلاج بس ما عطونا رقم التصريح، وين أتابعه؟
+ar|إذا نقلت تحليل العينة لمكان ثاني، أطلب موافقة بديلة؟
+[document_requirement]
+ar|أي ورقة ناقصة قبل ما أرسل طلب تعويض استشارة الجهاز الهضمي؟
+ar|هل خطاب الطبيب يكفي لإكمال ملف التعويض عن الجلسة؟
+ar|وش نوع الملف المسموح لإرفاق فاتورة التركيب؟
+ar|طلبوا مرفق إضافي للاستمارة، يبغون ملخص الزيارة أو طلب الطبيب؟
+ar|خطاب التحويل لازم يحتوي تاريخ الموعد؟
+ar|تقارير تصوير الظهر بالإنجليزي، هل تحتاجون نسخة مترجمة مع الطلب؟
+[appeal_request]
+ar|أبي أعترض على قرار مطالبة الجلسة ومعي تقرير جديد، كيف أضيفه للاعتراض؟
+ar|عندي تظلم مفتوح، وين أرفع صورة التحويل داخله؟
+ar|وش الطريقة لإضافة نسخة الفاتورة على طلب إعادة النظر؟
+ar|أبي أقدّم اعتراض عن قيمة الجزء المستبعد من مطالبة الجهاز
+ar|اعترضت الأسبوع الماضي، كيف أضم مستند إضافي لملف الاعتراض؟
+ar|وش الخطوة الرسمية إذا أبي أطلب من التأمين يراجع قرار عدم الصرف؟
+[denial_reason]
+ar|قدمنا طلب التعويض كامل، على أي شرط قرروا ما يدفعونه؟
+ar|رجعت المطالبة مرفوضة رغم وجود خطاب الطبيب، وش المبرر؟
+ar|وش اللي خلاهم ما يعوضوني عن رسوم تركيب الجهاز؟
+ar|لو سمحت وضح معنى رمز الرفض حتى أعرف وش صار
+ar|قرار عدم التعويض عن جلسة النطق ذكر بند غامض، ممكن تفسرونه؟
+ar|هل عندكم تفاصيل ليه استبعدوا مبلغ الفحص من المطالبة؟
+[billing_question]
+ar|وش قيمة الجزء اللي علي في إيصال جلسة النطق؟
+ar|دفعت كشفين والمحاسب كتبها في نفس السطر، أبغى تفصيل
+ar|تركيب الجهاز انحسب علي بفاتورتين، أفهم ليش؟
+ar|كيف طلعت تكلفة السحب في الإيصال بعد خصم التأمين؟
+ar|طلعت علي رسوم منفصلة عن سعر الكشف، وش بندها؟
+ar|المبلغ المدفوع مكتوب أقل من إيصال البطاقة، وين الفرق؟

@@ -1,0 +1,481 @@
+index,utterance_id,language,text,intent,split,synthetic
+0,INT-00001,ar,تأميني يغطي تحليل السكر التراكمي؟,coverage_inquiry,train,True
+1,INT-00002,ar,تأميني يغطي تحليل فيتامين د؟,coverage_inquiry,train,True
+2,INT-00003,ar,تأميني يغطي صورة الدم؟,coverage_inquiry,train,True
+3,INT-00004,ar,استشارة الأعصاب تدخل ضمن وثيقتي؟,coverage_inquiry,train,True
+4,INT-00005,ar,استشارة القلب تدخل ضمن وثيقتي؟,coverage_inquiry,train,True
+5,INT-00006,ar,استشارة الغدد تدخل ضمن وثيقتي؟,coverage_inquiry,train,True
+6,INT-00007,ar,ودي أعرف إذا العلاج الطبيعي على التأمين أو على حسابي.,coverage_inquiry,train,True
+7,INT-00008,ar,ودي أعرف إذا فحص النظر على التأمين أو على حسابي.,coverage_inquiry,train,True
+8,INT-00009,ar,ودي أعرف إذا أشعة الركبة على التأمين أو على حسابي.,coverage_inquiry,train,True
+9,INT-00010,ar,قالوا لي أراجع عيادة الصفا التجريبية، هو ضمن الشبكة؟,coverage_inquiry,train,True
+10,INT-00011,ar,قالوا لي أراجع مركز السهل التجريبي، هو ضمن الشبكة؟,coverage_inquiry,train,True
+11,INT-00012,ar,قالوا لي أراجع مجمع الغدير التجريبي، هو ضمن الشبكة؟,coverage_inquiry,train,True
+12,INT-00013,ar,إذا سويت تحاليل الحديد برا الشبكة، يشملها التأمين؟,coverage_inquiry,train,True
+13,INT-00014,ar,إذا سويت أشعة الكتف برا الشبكة، يشملها التأمين؟,coverage_inquiry,train,True
+14,INT-00015,ar,إذا سويت فحص السمع برا الشبكة، يشملها التأمين؟,coverage_inquiry,train,True
+15,INT-00016,ar,هل الباقة حقتي تشمل متابعة الضغط؟,coverage_inquiry,train,True
+16,INT-00017,ar,هل الباقة حقتي تشمل جلسات التأهيل؟,coverage_inquiry,train,True
+17,INT-00018,ar,هل الباقة حقتي تشمل زيارة أخصائي الجلدية؟,coverage_inquiry,train,True
+18,INT-00019,ar,عندي وصفة لـتحاليل الغدة، كيف أعرف إذا مشمولة؟,coverage_inquiry,train,True
+19,INT-00020,ar,عندي وصفة لـصورة الدم، كيف أعرف إذا مشمولة؟,coverage_inquiry,train,True
+20,INT-00021,ar,عندي وصفة لـفحص فيتامين د، كيف أعرف إذا مشمولة؟,coverage_inquiry,train,True
+21,INT-00022,ar,أراجع في فرع الروضة التجريبي بنفس التغطية اللي عندي؟,coverage_inquiry,validation,True
+22,INT-00023,ar,أراجع في فرع النسيم التجريبي بنفس التغطية اللي عندي؟,coverage_inquiry,validation,True
+23,INT-00024,ar,أراجع في فرع الواحة التجريبي بنفس التغطية اللي عندي؟,coverage_inquiry,validation,True
+24,INT-00025,ar,وش الخدمات اللي أقدر أستفيد منها في عيادات الأسنان ضمن وثيقتي؟,coverage_inquiry,validation,True
+25,INT-00026,ar,وش الخدمات اللي أقدر أستفيد منها في عيادات العيون ضمن وثيقتي؟,coverage_inquiry,validation,True
+26,INT-00027,ar,وش الخدمات اللي أقدر أستفيد منها في قسم التأهيل ضمن وثيقتي؟,coverage_inquiry,validation,True
+27,INT-00028,ar,قبل أحجز كشف العظام، أبي أتأكد إنه مشمول في خطتي.,coverage_inquiry,test,True
+28,INT-00029,ar,قبل أحجز جلسة علاج طبيعي، أبي أتأكد إنه مشمول في خطتي.,coverage_inquiry,test,True
+29,INT-00030,ar,قبل أحجز فحص النظر، أبي أتأكد إنه مشمول في خطتي.,coverage_inquiry,test,True
+30,INT-00031,en,Does my plan cover an A1c test?,coverage_inquiry,train,True
+31,INT-00032,en,Does my plan cover a vitamin D test?,coverage_inquiry,train,True
+32,INT-00033,en,Does my plan cover a complete blood count?,coverage_inquiry,train,True
+33,INT-00034,en,Is a neurology visit included in my benefits?,coverage_inquiry,train,True
+34,INT-00035,en,Is a cardiology visit included in my benefits?,coverage_inquiry,train,True
+35,INT-00036,en,Is an endocrinology visit included in my benefits?,coverage_inquiry,train,True
+36,INT-00037,en,"Would insurance pay for physical therapy, or would I pay for it myself?",coverage_inquiry,train,True
+37,INT-00038,en,"Would insurance pay for an eye exam, or would I pay for it myself?",coverage_inquiry,train,True
+38,INT-00039,en,"Would insurance pay for a knee X-ray, or would I pay for it myself?",coverage_inquiry,train,True
+39,INT-00040,en,Can I use my plan at Cedar Demo Clinic?,coverage_inquiry,train,True
+40,INT-00041,en,Can I use my plan at Valley Demo Center?,coverage_inquiry,train,True
+41,INT-00042,en,Can I use my plan at Meadow Demo Clinic?,coverage_inquiry,train,True
+42,INT-00043,en,Are iron studies covered outside the network?,coverage_inquiry,train,True
+43,INT-00044,en,Are shoulder X-rays covered outside the network?,coverage_inquiry,train,True
+44,INT-00045,en,Are hearing tests covered outside the network?,coverage_inquiry,train,True
+45,INT-00046,en,Do my benefits include blood pressure monitoring?,coverage_inquiry,train,True
+46,INT-00047,en,Do my benefits include rehab sessions?,coverage_inquiry,train,True
+47,INT-00048,en,Do my benefits include a dermatology visit?,coverage_inquiry,train,True
+48,INT-00049,en,My doctor ordered thyroid labs. How do I check whether it's covered?,coverage_inquiry,train,True
+49,INT-00050,en,My doctor ordered a CBC. How do I check whether it's covered?,coverage_inquiry,train,True
+50,INT-00051,en,My doctor ordered vitamin D testing. How do I check whether it's covered?,coverage_inquiry,train,True
+51,INT-00052,en,Can I get the same benefits at the North Demo branch?,coverage_inquiry,validation,True
+52,INT-00053,en,Can I get the same benefits at the Garden Demo branch?,coverage_inquiry,validation,True
+53,INT-00054,en,Can I get the same benefits at the Creek Demo branch?,coverage_inquiry,validation,True
+54,INT-00055,en,What benefits do I have for dental care?,coverage_inquiry,validation,True
+55,INT-00056,en,What benefits do I have for vision care?,coverage_inquiry,validation,True
+56,INT-00057,en,What benefits do I have for rehabilitation?,coverage_inquiry,validation,True
+57,INT-00058,en,"Before I book an orthopedic visit, I want to check that my plan includes it.",coverage_inquiry,test,True
+58,INT-00059,en,"Before I book a physical therapy session, I want to check that my plan includes it.",coverage_inquiry,test,True
+59,INT-00060,en,"Before I book an eye exam, I want to check that my plan includes it.",coverage_inquiry,test,True
+60,INT-00061,ar,أحتاج موافقة مسبقة عشان العلاج الطبيعي؟,prior_authorization,train,True
+61,INT-00062,ar,أحتاج موافقة مسبقة عشان الرنين؟,prior_authorization,train,True
+62,INT-00063,ar,أحتاج موافقة مسبقة عشان الأشعة المقطعية؟,prior_authorization,train,True
+63,INT-00064,ar,العيادة أرسلت طلب موافقة لـتقييم العلاج الطبيعي، وصل لكم؟,prior_authorization,train,True
+64,INT-00065,ar,العيادة أرسلت طلب موافقة لـأشعة الكتف، وصل لكم؟,prior_authorization,train,True
+65,INT-00066,ar,العيادة أرسلت طلب موافقة لـفحص النوم، وصل لكم؟,prior_authorization,train,True
+66,INT-00067,ar,هل طلعت موافقة التأمين على جلسات التأهيل؟,prior_authorization,train,True
+67,INT-00068,ar,هل طلعت موافقة التأمين على رنين الركبة؟,prior_authorization,train,True
+68,INT-00069,ar,هل طلعت موافقة التأمين على تصوير الظهر؟,prior_authorization,train,True
+69,INT-00070,ar,مين يرفع طلب الموافقة لـالعلاج الطبيعي، أنا ولا العيادة؟,prior_authorization,train,True
+70,INT-00071,ar,مين يرفع طلب الموافقة لـتصوير الركبة، أنا ولا العيادة؟,prior_authorization,train,True
+71,INT-00072,ar,مين يرفع طلب الموافقة لـفحص السمع، أنا ولا العيادة؟,prior_authorization,train,True
+72,INT-00073,ar,لين متى تظل الموافقة على الجلسات سارية؟,prior_authorization,train,True
+73,INT-00074,ar,لين متى تظل الموافقة على تصوير الركبة سارية؟,prior_authorization,train,True
+74,INT-00075,ar,لين متى تظل الموافقة على الفحص سارية؟,prior_authorization,train,True
+75,INT-00076,ar,موعدي الأحد، أقدر أروح إذا الموافقة للحين ما طلعت؟,prior_authorization,train,True
+76,INT-00077,ar,موعدي بكرة، أقدر أروح إذا الموافقة للحين ما طلعت؟,prior_authorization,train,True
+77,INT-00078,ar,موعدي الأسبوع الجاي، أقدر أروح إذا الموافقة للحين ما طلعت؟,prior_authorization,train,True
+78,INT-00079,ar,إذا زادوا عدد جلسات العلاج الطبيعي، نحتاج موافقة جديدة؟,prior_authorization,train,True
+79,INT-00080,ar,إذا زادوا عدد جلسات التأهيل، نحتاج موافقة جديدة؟,prior_authorization,train,True
+80,INT-00081,ar,إذا زادوا عدد جلسات تأهيل اليد، نحتاج موافقة جديدة؟,prior_authorization,train,True
+81,INT-00082,ar,ممكن تطلعون لي رقم الموافقة الخاصة بـفحص النوم؟,prior_authorization,validation,True
+82,INT-00083,ar,ممكن تطلعون لي رقم الموافقة الخاصة بـالرنين؟,prior_authorization,validation,True
+83,INT-00084,ar,ممكن تطلعون لي رقم الموافقة الخاصة بـالعلاج الطبيعي؟,prior_authorization,validation,True
+84,INT-00085,ar,غيرت موعد الرنين، هل ينفع نفس التصريح؟,prior_authorization,validation,True
+85,INT-00086,ar,غيرت موعد التصوير المقطعي، هل ينفع نفس التصريح؟,prior_authorization,validation,True
+86,INT-00087,ar,غيرت موعد تقييم العلاج الطبيعي، هل ينفع نفس التصريح؟,prior_authorization,validation,True
+87,INT-00088,ar,خلصت صلاحية الموافقة قبل موعد الفحص، كيف أجددها؟,prior_authorization,test,True
+88,INT-00089,ar,خلصت صلاحية الموافقة قبل موعد الأشعة، كيف أجددها؟,prior_authorization,test,True
+89,INT-00090,ar,خلصت صلاحية الموافقة قبل موعد الجلسة، كيف أجددها؟,prior_authorization,test,True
+90,INT-00091,en,Do I need prior authorization for physical therapy?,prior_authorization,train,True
+91,INT-00092,en,Do I need prior authorization for an MRI?,prior_authorization,train,True
+92,INT-00093,en,Do I need prior authorization for a CT scan?,prior_authorization,train,True
+93,INT-00094,en,My clinic sent an authorization request for a PT evaluation. Did you get it?,prior_authorization,train,True
+94,INT-00095,en,My clinic sent an authorization request for shoulder imaging. Did you get it?,prior_authorization,train,True
+95,INT-00096,en,My clinic sent an authorization request for a sleep study. Did you get it?,prior_authorization,train,True
+96,INT-00097,en,Has the authorization for rehab sessions been approved?,prior_authorization,train,True
+97,INT-00098,en,Has the authorization for my knee MRI been approved?,prior_authorization,train,True
+98,INT-00099,en,Has the authorization for spine imaging been approved?,prior_authorization,train,True
+99,INT-00100,en,"Who submits the authorization request for physical therapy, me or the clinic?",prior_authorization,train,True
+100,INT-00101,en,"Who submits the authorization request for knee imaging, me or the clinic?",prior_authorization,train,True
+101,INT-00102,en,"Who submits the authorization request for a hearing test, me or the clinic?",prior_authorization,train,True
+102,INT-00103,en,How long is my authorization for therapy valid?,prior_authorization,train,True
+103,INT-00104,en,How long is my authorization for knee imaging valid?,prior_authorization,train,True
+104,INT-00105,en,How long is my authorization for the scan valid?,prior_authorization,train,True
+105,INT-00106,en,My appointment is on Sunday. Is it okay to go while the authorization is pending?,prior_authorization,train,True
+106,INT-00107,en,My appointment is tomorrow. Is it okay to go while the authorization is pending?,prior_authorization,train,True
+107,INT-00108,en,My appointment is next week. Is it okay to go while the authorization is pending?,prior_authorization,train,True
+108,INT-00109,en,"If the clinic adds more PT visits, do they need a new authorization?",prior_authorization,train,True
+109,INT-00110,en,"If the clinic adds more rehab visits, do they need a new authorization?",prior_authorization,train,True
+110,INT-00111,en,"If the clinic adds more hand therapy sessions, do they need a new authorization?",prior_authorization,train,True
+111,INT-00112,en,Can you give me the authorization number for my sleep study?,prior_authorization,validation,True
+112,INT-00113,en,Can you give me the authorization number for the MRI?,prior_authorization,validation,True
+113,INT-00114,en,Can you give me the authorization number for physical therapy?,prior_authorization,validation,True
+114,INT-00115,en,I rescheduled the MRI. Can I still use the same authorization?,prior_authorization,validation,True
+115,INT-00116,en,I rescheduled the CT scan. Can I still use the same authorization?,prior_authorization,validation,True
+116,INT-00117,en,I rescheduled my PT evaluation. Can I still use the same authorization?,prior_authorization,validation,True
+117,INT-00118,en,The authorization expired before the test. How do I renew it?,prior_authorization,test,True
+118,INT-00119,en,The authorization expired before the scan. How do I renew it?,prior_authorization,test,True
+119,INT-00120,en,The authorization expired before my session. How do I renew it?,prior_authorization,test,True
+120,INT-00121,ar,وين وصلت مطالبة زيارة العيادة؟,claim_status,train,True
+121,INT-00122,ar,وين وصلت مطالبة تحاليل الحديد؟,claim_status,train,True
+122,INT-00123,ar,وين وصلت مطالبة العلاج الطبيعي؟,claim_status,train,True
+123,INT-00124,ar,رفعت المطالبة أمس، ظهرت عندكم؟,claim_status,train,True
+124,INT-00125,ar,رفعت المطالبة يوم الأحد، ظهرت عندكم؟,claim_status,train,True
+125,INT-00126,ar,رفعت المطالبة قبل أسبوع، ظهرت عندكم؟,claim_status,train,True
+126,INT-00127,ar,مكتوب تحت المراجعة من يومين، فيه تحديث على المطالبة؟,claim_status,train,True
+127,INT-00128,ar,مكتوب تحت المراجعة من أسبوع، فيه تحديث على المطالبة؟,claim_status,train,True
+128,INT-00129,ar,مكتوب تحت المراجعة من الشهر اللي راح، فيه تحديث على المطالبة؟,claim_status,train,True
+129,INT-00130,ar,أرسل المستشفى مطالبة زيارة الطوارئ، كيف أتابعها؟,claim_status,train,True
+130,INT-00131,ar,أرسل المستشفى مطالبة الأشعة، كيف أتابعها؟,claim_status,train,True
+131,INT-00132,ar,أرسل المستشفى مطالبة التحاليل، كيف أتابعها؟,claim_status,train,True
+132,INT-00133,ar,ممكن تشيكون على حالة مطالبة كشف القلب؟,claim_status,train,True
+133,INT-00134,ar,ممكن تشيكون على حالة مطالبة فحص النظر؟,claim_status,train,True
+134,INT-00135,ar,ممكن تشيكون على حالة مطالبة زيارة الأسنان؟,claim_status,train,True
+135,INT-00136,ar,أعدنا رفع المطالبة بعد إضافة التقرير، تغيرت حالتها؟,claim_status,train,True
+136,INT-00137,ar,أعدنا رفع المطالبة بعد إضافة الإحالة، تغيرت حالتها؟,claim_status,train,True
+137,INT-00138,ar,أعدنا رفع المطالبة بعد إضافة طلب الطبيب، تغيرت حالتها؟,claim_status,train,True
+138,INT-00139,ar,المطالبة اللي رفعتها من التطبيق ما تطلع عندي، وصلتكم؟,claim_status,train,True
+139,INT-00140,ar,المطالبة اللي رفعتها من الموقع ما تطلع عندي، وصلتكم؟,claim_status,train,True
+140,INT-00141,ar,المطالبة اللي رفعتها من مكتب الخدمة ما تطلع عندي، وصلتكم؟,claim_status,train,True
+141,INT-00142,ar,طلع لي في التطبيق إن مطالبة العلاج الطبيعي قيد المعالجة، متى تتحدث؟,claim_status,validation,True
+142,INT-00143,ar,طلع لي في التطبيق إن مطالبة الكشف قيد المعالجة، متى تتحدث؟,claim_status,validation,True
+143,INT-00144,ar,طلع لي في التطبيق إن مطالبة التحاليل قيد المعالجة، متى تتحدث؟,claim_status,validation,True
+144,INT-00145,ar,وصلتني رسالة استلام عن مطالبة الطوارئ، وش صار عليها بعدها؟,claim_status,validation,True
+145,INT-00146,ar,وصلتني رسالة استلام عن مطالبة الأشعة، وش صار عليها بعدها؟,claim_status,validation,True
+146,INT-00147,ar,وصلتني رسالة استلام عن مطالبة المختبر، وش صار عليها بعدها؟,claim_status,validation,True
+147,INT-00148,ar,عندي مطالبتين من نفس اليوم، أبي أعرف إذا خلصتوا مراجعة اللي تخص كشف العيون.,claim_status,test,True
+148,INT-00149,ar,عندي مطالبتين من نفس اليوم، أبي أعرف إذا خلصتوا مراجعة اللي تخص الأشعة.,claim_status,test,True
+149,INT-00150,ar,عندي مطالبتين من نفس اليوم، أبي أعرف إذا خلصتوا مراجعة اللي تخص التحاليل.,claim_status,test,True
+150,INT-00151,en,Where does my claim for the office visit stand?,claim_status,train,True
+151,INT-00152,en,Where does my claim for iron testing stand?,claim_status,train,True
+152,INT-00153,en,Where does my claim for physical therapy stand?,claim_status,train,True
+153,INT-00154,en,I submitted a claim yesterday. Is it in your system yet?,claim_status,train,True
+154,INT-00155,en,I submitted a claim on Sunday. Is it in your system yet?,claim_status,train,True
+155,INT-00156,en,I submitted a claim a week ago. Is it in your system yet?,claim_status,train,True
+156,INT-00157,en,My claim has been under review for two days. Is there an update?,claim_status,train,True
+157,INT-00158,en,My claim has been under review for a week. Is there an update?,claim_status,train,True
+158,INT-00159,en,My claim has been under review for a month. Is there an update?,claim_status,train,True
+159,INT-00160,en,The hospital billed you for the ER visit. How do I track that claim?,claim_status,train,True
+160,INT-00161,en,The hospital billed you for the imaging. How do I track that claim?,claim_status,train,True
+161,INT-00162,en,The hospital billed you for the lab work. How do I track that claim?,claim_status,train,True
+162,INT-00163,en,Could you look up my claim for the cardiology appointment?,claim_status,train,True
+163,INT-00164,en,Could you look up my claim for my eye exam?,claim_status,train,True
+164,INT-00165,en,Could you look up my claim for the dental visit?,claim_status,train,True
+165,INT-00166,en,The clinic resubmitted the claim with the report. Has the status changed?,claim_status,train,True
+166,INT-00167,en,The clinic resubmitted the claim with the referral. Has the status changed?,claim_status,train,True
+167,INT-00168,en,The clinic resubmitted the claim with the doctor's order. Has the status changed?,claim_status,train,True
+168,INT-00169,en,The claim I submitted through the app isn't showing up. Did you receive it?,claim_status,train,True
+169,INT-00170,en,The claim I submitted through the website isn't showing up. Did you receive it?,claim_status,train,True
+170,INT-00171,en,The claim I submitted through your service desk isn't showing up. Did you receive it?,claim_status,train,True
+171,INT-00172,en,The app says my physical therapy claim is processing. When will the status update?,claim_status,validation,True
+172,INT-00173,en,The app says my office visit claim is processing. When will the status update?,claim_status,validation,True
+173,INT-00174,en,The app says my lab claim is processing. When will the status update?,claim_status,validation,True
+174,INT-00175,en,I got a receipt notice for the ER claim. What happened after that?,claim_status,validation,True
+175,INT-00176,en,I got a receipt notice for the imaging claim. What happened after that?,claim_status,validation,True
+176,INT-00177,en,I got a receipt notice for the lab claim. What happened after that?,claim_status,validation,True
+177,INT-00178,en,I have two claims from the same day. Have you finished reviewing the one for the eye exam?,claim_status,test,True
+178,INT-00179,en,I have two claims from the same day. Have you finished reviewing the one for imaging?,claim_status,test,True
+179,INT-00180,en,I have two claims from the same day. Have you finished reviewing the one for lab work?,claim_status,test,True
+180,INT-00181,ar,ليش رفضتوا مطالبة التحاليل؟,denial_reason,train,True
+181,INT-00182,ar,ليش رفضتوا مطالبة الأشعة؟,denial_reason,train,True
+182,INT-00183,ar,ليش رفضتوا مطالبة العلاج الطبيعي؟,denial_reason,train,True
+183,INT-00184,ar,وصلني إشعار رفض بعد زيارة العيادة، وش السبب؟,denial_reason,train,True
+184,INT-00185,ar,وصلني إشعار رفض بعد كشف الأعصاب، وش السبب؟,denial_reason,train,True
+185,INT-00186,ar,وصلني إشعار رفض بعد فحص النظر، وش السبب؟,denial_reason,train,True
+186,INT-00187,ar,مكتوب في مطالبة الركبة «مرفوضة» وما فيه توضيح، ممكن أعرف ليه؟,denial_reason,train,True
+187,INT-00188,ar,مكتوب في مطالبة الكتف «مرفوضة» وما فيه توضيح، ممكن أعرف ليه؟,denial_reason,train,True
+188,INT-00189,ar,مكتوب في مطالبة الظهر «مرفوضة» وما فيه توضيح، ممكن أعرف ليه؟,denial_reason,train,True
+189,INT-00190,ar,رمز الرفض في مطالبة المختبر وش معناه؟,denial_reason,train,True
+190,INT-00191,ar,رمز الرفض في مطالبة التأهيل وش معناه؟,denial_reason,train,True
+191,INT-00192,ar,رمز الرفض في مطالبة الاستشارة وش معناه؟,denial_reason,train,True
+192,INT-00193,ar,مع إن العيادة أرفقت التقرير، المطالبة انرفضت. وش سبب القرار؟,denial_reason,train,True
+193,INT-00194,ar,مع إن العيادة أرفقت الإحالة، المطالبة انرفضت. وش سبب القرار؟,denial_reason,train,True
+194,INT-00195,ar,مع إن العيادة أرفقت طلب الطبيب، المطالبة انرفضت. وش سبب القرار؟,denial_reason,train,True
+195,INT-00196,ar,انرفضت مطالبة التصوير، هل السبب له علاقة بالشبكة؟,denial_reason,train,True
+196,INT-00197,ar,انرفضت مطالبة كشف الأسنان، هل السبب له علاقة بالشبكة؟,denial_reason,train,True
+197,INT-00198,ar,انرفضت مطالبة تحاليل الغدة، هل السبب له علاقة بالشبكة؟,denial_reason,train,True
+198,INT-00199,ar,ليه رفضوا زيارة الأحد وهي طالعة عندي في سجل المطالبات؟,denial_reason,train,True
+199,INT-00200,ar,ليه رفضوا زيارة المتابعة وهي طالعة عندي في سجل المطالبات؟,denial_reason,train,True
+200,INT-00201,ar,ليه رفضوا زيارة الطوارئ وهي طالعة عندي في سجل المطالبات؟,denial_reason,train,True
+201,INT-00202,ar,إشعار الرفض لمطالبة المختبر فيه سبب مختصر، أقدر أعرف التفاصيل؟,denial_reason,validation,True
+202,INT-00203,ar,إشعار الرفض لمطالبة الأشعة فيه سبب مختصر، أقدر أعرف التفاصيل؟,denial_reason,validation,True
+203,INT-00204,ar,إشعار الرفض لمطالبة العيادة فيه سبب مختصر، أقدر أعرف التفاصيل؟,denial_reason,validation,True
+204,INT-00205,ar,ودي أفهم البند اللي استندوا عليه في رفض مطالبة العلاج الطبيعي.,denial_reason,validation,True
+205,INT-00206,ar,ودي أفهم البند اللي استندوا عليه في رفض مطالبة فحص النظر.,denial_reason,validation,True
+206,INT-00207,ar,ودي أفهم البند اللي استندوا عليه في رفض مطالبة زيارة التخصصي.,denial_reason,validation,True
+207,INT-00208,ar,هل رفض مطالبة تحليل الحديد سببه نقص أوراق أو فيه سبب ثاني؟,denial_reason,test,True
+208,INT-00209,ar,هل رفض مطالبة تقييم العلاج الطبيعي سببه نقص أوراق أو فيه سبب ثاني؟,denial_reason,test,True
+209,INT-00210,ar,هل رفض مطالبة كشف القلب سببه نقص أوراق أو فيه سبب ثاني؟,denial_reason,test,True
+210,INT-00211,en,Why was my claim for lab work denied?,denial_reason,train,True
+211,INT-00212,en,Why was my claim for imaging denied?,denial_reason,train,True
+212,INT-00213,en,Why was my claim for physical therapy denied?,denial_reason,train,True
+213,INT-00214,en,I got a denial notice after an office visit. What was the reason?,denial_reason,train,True
+214,INT-00215,en,I got a denial notice after a neurology appointment. What was the reason?,denial_reason,train,True
+215,INT-00216,en,I got a denial notice after an eye exam. What was the reason?,denial_reason,train,True
+216,INT-00217,en,My claim for knee care says denied with no explanation. Can you tell me why?,denial_reason,train,True
+217,INT-00218,en,My claim for shoulder care says denied with no explanation. Can you tell me why?,denial_reason,train,True
+218,INT-00219,en,My claim for back care says denied with no explanation. Can you tell me why?,denial_reason,train,True
+219,INT-00220,en,What does the denial code on my lab claim mean?,denial_reason,train,True
+220,INT-00221,en,What does the denial code on my rehab claim mean?,denial_reason,train,True
+221,INT-00222,en,What does the denial code on my consultation claim mean?,denial_reason,train,True
+222,INT-00223,en,"The clinic attached the report, but the claim was denied. What led to that decision?",denial_reason,train,True
+223,INT-00224,en,"The clinic attached the referral, but the claim was denied. What led to that decision?",denial_reason,train,True
+224,INT-00225,en,"The clinic attached the physician order, but the claim was denied. What led to that decision?",denial_reason,train,True
+225,INT-00226,en,My claim for imaging was denied. Was it because of the network?,denial_reason,train,True
+226,INT-00227,en,My claim for a dental visit was denied. Was it because of the network?,denial_reason,train,True
+227,INT-00228,en,My claim for thyroid labs was denied. Was it because of the network?,denial_reason,train,True
+228,INT-00229,en,Why was the claim for Sunday's visit denied when it appears in my history?,denial_reason,train,True
+229,INT-00230,en,Why was the claim for my follow-up denied when it appears in my history?,denial_reason,train,True
+230,INT-00231,en,Why was the claim for the ER visit denied when it appears in my history?,denial_reason,train,True
+231,INT-00232,en,The notice for my lab claim only lists a short denial reason. Can I get more detail?,denial_reason,validation,True
+232,INT-00233,en,The notice for my imaging claim only lists a short denial reason. Can I get more detail?,denial_reason,validation,True
+233,INT-00234,en,The notice for my office visit claim only lists a short denial reason. Can I get more detail?,denial_reason,validation,True
+234,INT-00235,en,Which plan provision was cited in denying my claim for physical therapy?,denial_reason,validation,True
+235,INT-00236,en,Which plan provision was cited in denying my claim for the eye exam?,denial_reason,validation,True
+236,INT-00237,en,Which plan provision was cited in denying my claim for the specialist visit?,denial_reason,validation,True
+237,INT-00238,en,"Was my claim for iron testing denied because something was missing, or was there another reason?",denial_reason,test,True
+238,INT-00239,en,"Was my claim for a PT evaluation denied because something was missing, or was there another reason?",denial_reason,test,True
+239,INT-00240,en,"Was my claim for cardiology denied because something was missing, or was there another reason?",denial_reason,test,True
+240,INT-00241,ar,أبغى أعترض على رفض مطالبة التحاليل.,appeal_request,train,True
+241,INT-00242,ar,أبغى أعترض على رفض مطالبة العلاج الطبيعي.,appeal_request,train,True
+242,INT-00243,ar,أبغى أعترض على رفض مطالبة الأشعة.,appeal_request,train,True
+243,INT-00244,ar,كيف أقدم اعتراض على قرار زيارة القلب؟,appeal_request,train,True
+244,INT-00245,ar,كيف أقدم اعتراض على قرار كشف الأعصاب؟,appeal_request,train,True
+245,INT-00246,ar,كيف أقدم اعتراض على قرار فحص النظر؟,appeal_request,train,True
+246,INT-00247,ar,أقدر أطلب إعادة النظر في مطالبة زيارة الطوارئ؟,appeal_request,train,True
+247,INT-00248,ar,أقدر أطلب إعادة النظر في مطالبة كشف العظام؟,appeal_request,train,True
+248,INT-00249,ar,أقدر أطلب إعادة النظر في مطالبة متابعة الضغط؟,appeal_request,train,True
+249,INT-00250,ar,وين ألقى نموذج الاعتراض على مطالبة العيادة؟,appeal_request,train,True
+250,INT-00251,ar,وين ألقى نموذج الاعتراض على مطالبة المختبر؟,appeal_request,train,True
+251,INT-00252,ar,وين ألقى نموذج الاعتراض على مطالبة التأهيل؟,appeal_request,train,True
+252,INT-00253,ar,باقي يمديني أرفع اعتراض على قرار وصلني أمس؟,appeal_request,train,True
+253,INT-00254,ar,باقي يمديني أرفع اعتراض على قرار وصلني قبل أسبوعين؟,appeal_request,train,True
+254,INT-00255,ar,باقي يمديني أرفع اعتراض على قرار وصلني الشهر اللي راح؟,appeal_request,train,True
+255,INT-00256,ar,هل أقدر أرسل اعتراض المطالبة من التطبيق؟,appeal_request,train,True
+256,INT-00257,ar,هل أقدر أرسل اعتراض المطالبة من الموقع؟,appeal_request,train,True
+257,INT-00258,ar,هل أقدر أرسل اعتراض المطالبة من فرع الخدمة؟,appeal_request,train,True
+258,INT-00259,ar,أبغى أرفق التقرير مع اعتراض على قرار الرفض، كيف أرفعه؟,appeal_request,train,True
+259,INT-00260,ar,أبغى أرفق الإحالة مع اعتراض على قرار الرفض، كيف أرفعه؟,appeal_request,train,True
+260,INT-00261,ar,أبغى أرفق طلب الطبيب مع اعتراض على قرار الرفض، كيف أرفعه؟,appeal_request,train,True
+261,INT-00262,ar,قدمت اعتراض على مطالبة الأشعة وبغيت أعرف وين أتابع الاعتراض.,appeal_request,validation,True
+262,INT-00263,ar,قدمت اعتراض على مطالبة العلاج الطبيعي وبغيت أعرف وين أتابع الاعتراض.,appeal_request,validation,True
+263,INT-00264,ar,قدمت اعتراض على مطالبة كشف القلب وبغيت أعرف وين أتابع الاعتراض.,appeal_request,validation,True
+264,INT-00265,ar,إذا أنا مو مقتنعة بقرار رفض تصوير الظهر، كيف أطلب مراجعته؟,appeal_request,validation,True
+265,INT-00266,ar,إذا أنا مو مقتنعة بقرار رفض تحليل الغدة، كيف أطلب مراجعته؟,appeal_request,validation,True
+266,INT-00267,ar,إذا أنا مو مقتنعة بقرار رفض كشف العيون، كيف أطلب مراجعته؟,appeal_request,validation,True
+267,INT-00268,ar,أحتاج أرفع اعتراض لمطالبة استشارة الأعصاب بالنيابة عن أحد أفراد الأسرة. كيف أبدأ؟,appeal_request,test,True
+268,INT-00269,ar,أحتاج أرفع اعتراض لمطالبة فحص السمع بالنيابة عن أحد أفراد الأسرة. كيف أبدأ؟,appeal_request,test,True
+269,INT-00270,ar,أحتاج أرفع اعتراض لمطالبة جلسات التأهيل بالنيابة عن أحد أفراد الأسرة. كيف أبدأ؟,appeal_request,test,True
+270,INT-00271,en,I want to appeal the denial of my claim for lab work.,appeal_request,train,True
+271,INT-00272,en,I want to appeal the denial of my claim for physical therapy.,appeal_request,train,True
+272,INT-00273,en,I want to appeal the denial of my claim for imaging.,appeal_request,train,True
+273,INT-00274,en,How do I file an appeal for the decision on the cardiology visit?,appeal_request,train,True
+274,INT-00275,en,How do I file an appeal for the decision on the neurology visit?,appeal_request,train,True
+275,INT-00276,en,How do I file an appeal for the decision on the eye exam?,appeal_request,train,True
+276,INT-00277,en,Can I ask for reconsideration on my claim for the ER visit?,appeal_request,train,True
+277,INT-00278,en,Can I ask for reconsideration on my claim for orthopedics?,appeal_request,train,True
+278,INT-00279,en,Can I ask for reconsideration on my claim for blood pressure monitoring?,appeal_request,train,True
+279,INT-00280,en,Where can I find the appeal form for my clinic claim?,appeal_request,train,True
+280,INT-00281,en,Where can I find the appeal form for my lab claim?,appeal_request,train,True
+281,INT-00282,en,Where can I find the appeal form for my rehab claim?,appeal_request,train,True
+282,INT-00283,en,Can I still appeal a decision I received yesterday?,appeal_request,train,True
+283,INT-00284,en,Can I still appeal a decision I received two weeks ago?,appeal_request,train,True
+284,INT-00285,en,Can I still appeal a decision I received last month?,appeal_request,train,True
+285,INT-00286,en,Can I send my claim appeal through the app?,appeal_request,train,True
+286,INT-00287,en,Can I send my claim appeal through the website?,appeal_request,train,True
+287,INT-00288,en,Can I send my claim appeal through a service center?,appeal_request,train,True
+288,INT-00289,en,How do I attach a report to my appeal?,appeal_request,train,True
+289,INT-00290,en,How do I attach a referral to my appeal?,appeal_request,train,True
+290,INT-00291,en,How do I attach a doctor's order to my appeal?,appeal_request,train,True
+291,INT-00292,en,I appealed the decision on my imaging claim. Where can I track the appeal?,appeal_request,validation,True
+292,INT-00293,en,I appealed the decision on my physical therapy claim. Where can I track the appeal?,appeal_request,validation,True
+293,INT-00294,en,I appealed the decision on my cardiology claim. Where can I track the appeal?,appeal_request,validation,True
+294,INT-00295,en,I disagree with the denial of spine imaging. How do I ask you to review it?,appeal_request,validation,True
+295,INT-00296,en,I disagree with the denial of thyroid testing. How do I ask you to review it?,appeal_request,validation,True
+296,INT-00297,en,I disagree with the denial of my eye exam. How do I ask you to review it?,appeal_request,validation,True
+297,INT-00298,en,How do I start an appeal on behalf of a family member for a neurology consultation?,appeal_request,test,True
+298,INT-00299,en,How do I start an appeal on behalf of a family member for a hearing test?,appeal_request,test,True
+299,INT-00300,en,How do I start an appeal on behalf of a family member for rehab sessions?,appeal_request,test,True
+300,INT-00301,ar,وش الأوراق المطلوبة لمطالبة التحاليل؟,document_requirement,train,True
+301,INT-00302,ar,وش الأوراق المطلوبة لمطالبة الاستشارة؟,document_requirement,train,True
+302,INT-00303,ar,وش الأوراق المطلوبة لمطالبة العلاج الطبيعي؟,document_requirement,train,True
+303,INT-00304,ar,غير الفاتورة، أحتاج أرسل شي لمطالبة متابعة الضغط؟,document_requirement,train,True
+304,INT-00305,ar,غير الفاتورة، أحتاج أرسل شي لمطالبة زيارة العيادة؟,document_requirement,train,True
+305,INT-00306,ar,غير الفاتورة، أحتاج أرسل شي لمطالبة جلسة التأهيل؟,document_requirement,train,True
+306,INT-00307,ar,هل لازم أرفق تحويل مع مطالبة زيارة الأعصاب؟,document_requirement,train,True
+307,INT-00308,ar,هل لازم أرفق تحويل مع مطالبة زيارة القلب؟,document_requirement,train,True
+308,INT-00309,ar,هل لازم أرفق تحويل مع مطالبة زيارة العظام؟,document_requirement,train,True
+309,INT-00310,ar,يكفي طلب الطبيب لمطالبة السكر التراكمي، أو لازم تقرير معه؟,document_requirement,train,True
+310,INT-00311,ar,يكفي طلب الطبيب لمطالبة تحاليل الغدة، أو لازم تقرير معه؟,document_requirement,train,True
+311,INT-00312,ar,يكفي طلب الطبيب لمطالبة صورة الدم، أو لازم تقرير معه؟,document_requirement,train,True
+312,INT-00313,ar,وش المستند الناقص في ملف مطالبة التحاليل؟,document_requirement,train,True
+313,INT-00314,ar,وش المستند الناقص في ملف مطالبة الاستشارة؟,document_requirement,train,True
+314,INT-00315,ar,وش المستند الناقص في ملف مطالبة العلاج الطبيعي؟,document_requirement,train,True
+315,INT-00316,ar,أقدر أرفع صورة الإحالة من الجوال للمطالبة؟,document_requirement,train,True
+316,INT-00317,ar,أقدر أرفع نسخة من طلب الطبيب من الجوال للمطالبة؟,document_requirement,train,True
+317,INT-00318,ar,أقدر أرفع صورة التقرير من الجوال للمطالبة؟,document_requirement,train,True
+318,INT-00319,ar,العيادة ضيّعت الإحالة، وش البديل المقبول لإكمال ملف المطالبة؟,document_requirement,train,True
+319,INT-00320,ar,العيادة ضيّعت طلب التحليل، وش البديل المقبول لإكمال ملف المطالبة؟,document_requirement,train,True
+320,INT-00321,ar,العيادة ضيّعت التقرير، وش البديل المقبول لإكمال ملف المطالبة؟,document_requirement,train,True
+321,INT-00322,ar,لمطالبة كشف العيون، تقبلون مستندات بالإنجليزي؟,document_requirement,validation,True
+322,INT-00323,ar,لمطالبة تصوير الركبة، تقبلون مستندات بالإنجليزي؟,document_requirement,validation,True
+323,INT-00324,ar,لمطالبة زيارة الأعصاب، تقبلون مستندات بالإنجليزي؟,document_requirement,validation,True
+324,INT-00325,ar,المرفق حق مطالبة الكشف رجعوه لي لأنه مو واضح. بأي صيغة أرفعه؟,document_requirement,validation,True
+325,INT-00326,ar,المرفق حق مطالبة الأشعة رجعوه لي لأنه مو واضح. بأي صيغة أرفعه؟,document_requirement,validation,True
+326,INT-00327,ar,المرفق حق مطالبة المختبر رجعوه لي لأنه مو واضح. بأي صيغة أرفعه؟,document_requirement,validation,True
+327,INT-00328,ar,وش البيانات اللي لازم تكون مكتوبة في الإحالة عشان يقبلونه مع المطالبة؟,document_requirement,test,True
+328,INT-00329,ar,وش البيانات اللي لازم تكون مكتوبة في التقرير عشان يقبلونه مع المطالبة؟,document_requirement,test,True
+329,INT-00330,ar,وش البيانات اللي لازم تكون مكتوبة في طلب الطبيب عشان يقبلونه مع المطالبة؟,document_requirement,test,True
+330,INT-00331,en,What paperwork do I need to submit a claim for lab work?,document_requirement,train,True
+331,INT-00332,en,What paperwork do I need to submit a claim for a consultation?,document_requirement,train,True
+332,INT-00333,en,What paperwork do I need to submit a claim for physical therapy?,document_requirement,train,True
+333,INT-00334,en,"Other than the invoice, do I need to send anything for blood pressure monitoring?",document_requirement,train,True
+334,INT-00335,en,"Other than the invoice, do I need to send anything for the office visit?",document_requirement,train,True
+335,INT-00336,en,"Other than the invoice, do I need to send anything for rehab?",document_requirement,train,True
+336,INT-00337,en,Do I need to include a referral with my claim for neurology?,document_requirement,train,True
+337,INT-00338,en,Do I need to include a referral with my claim for cardiology?,document_requirement,train,True
+338,INT-00339,en,Do I need to include a referral with my claim for orthopedics?,document_requirement,train,True
+339,INT-00340,en,"Is the physician order enough for the A1c, or do I need a clinical note too?",document_requirement,train,True
+340,INT-00341,en,"Is the physician order enough for thyroid labs, or do I need a clinical note too?",document_requirement,train,True
+341,INT-00342,en,"Is the physician order enough for the CBC, or do I need a clinical note too?",document_requirement,train,True
+342,INT-00343,en,Which document is missing from my lab claim?,document_requirement,train,True
+343,INT-00344,en,Which document is missing from my consultation claim?,document_requirement,train,True
+344,INT-00345,en,Which document is missing from my physical therapy claim?,document_requirement,train,True
+345,INT-00346,en,Can I upload a photo of the referral from my phone?,document_requirement,train,True
+346,INT-00347,en,Can I upload a copy of the doctor's order from my phone?,document_requirement,train,True
+347,INT-00348,en,Can I upload a photo of the report from my phone?,document_requirement,train,True
+348,INT-00349,en,The clinic misplaced the referral. What can I submit in its place?,document_requirement,train,True
+349,INT-00350,en,The clinic misplaced the lab order. What can I submit in its place?,document_requirement,train,True
+350,INT-00351,en,The clinic misplaced the report. What can I submit in its place?,document_requirement,train,True
+351,INT-00352,en,Do you accept documents in Arabic for claims involving an eye exam?,document_requirement,validation,True
+352,INT-00353,en,Do you accept documents in Arabic for claims involving knee imaging?,document_requirement,validation,True
+353,INT-00354,en,Do you accept documents in Arabic for claims involving a neurology visit?,document_requirement,validation,True
+354,INT-00355,en,The attachment for my office visit claim was returned because it was blurry. What format should I upload it in?,document_requirement,validation,True
+355,INT-00356,en,The attachment for my imaging claim was returned because it was blurry. What format should I upload it in?,document_requirement,validation,True
+356,INT-00357,en,The attachment for my lab claim was returned because it was blurry. What format should I upload it in?,document_requirement,validation,True
+357,INT-00358,en,What information needs to appear on the referral for you to accept it with the claim?,document_requirement,test,True
+358,INT-00359,en,What information needs to appear on the clinical note for you to accept it with the claim?,document_requirement,test,True
+359,INT-00360,en,What information needs to appear on the doctor's order for you to accept it with the claim?,document_requirement,test,True
+360,INT-00361,ar,ليش زادت فاتورة التحاليل؟,billing_question,train,True
+361,INT-00362,ar,ليش زادت فاتورة الكشف؟,billing_question,train,True
+362,INT-00363,ar,ليش زادت فاتورة الجلسة؟,billing_question,train,True
+363,INT-00364,ar,كيف حسبتوا المبلغ اللي عليّ في زيارة الطوارئ؟,billing_question,train,True
+364,INT-00365,ar,كيف حسبتوا المبلغ اللي عليّ في كشف الأعصاب؟,billing_question,train,True
+365,INT-00366,ar,كيف حسبتوا المبلغ اللي عليّ في فحص النظر؟,billing_question,train,True
+366,INT-00367,ar,في فاتورة العلاج الطبيعي نفس البند مرتين، ممكن تتأكدون؟,billing_question,train,True
+367,INT-00368,ar,في فاتورة الاستشارة نفس البند مرتين، ممكن تتأكدون؟,billing_question,train,True
+368,INT-00369,ar,في فاتورة متابعة الضغط نفس البند مرتين، ممكن تتأكدون؟,billing_question,train,True
+369,INT-00370,ar,دفعت في الاستقبال لـالكشف ولسه يظهر علي مبلغ، وش السالفة؟,billing_question,train,True
+370,INT-00371,ar,دفعت في الاستقبال لـالأشعة ولسه يظهر علي مبلغ، وش السالفة؟,billing_question,train,True
+371,INT-00372,ar,دفعت في الاستقبال لـالتحاليل ولسه يظهر علي مبلغ، وش السالفة؟,billing_question,train,True
+372,INT-00373,ar,كم نسبة التحمل اللي انحسبت علي في فاتورة الأشعة؟,billing_question,train,True
+373,INT-00374,ar,كم نسبة التحمل اللي انحسبت علي في فاتورة كشف الأسنان؟,billing_question,train,True
+374,INT-00375,ar,كم نسبة التحمل اللي انحسبت علي في فاتورة جلسة التأهيل؟,billing_question,train,True
+375,INT-00376,ar,أقدر أطلع فاتورة مفصلة لـزيارة الأحد؟,billing_question,train,True
+376,INT-00377,ar,أقدر أطلع فاتورة مفصلة لـزيارة التخصصي؟,billing_question,train,True
+377,INT-00378,ar,أقدر أطلع فاتورة مفصلة لـالمختبر؟,billing_question,train,True
+378,INT-00379,ar,في كشف الحساب رسوم لـالتحاليل وأنا سددتها، كيف أراجع المبلغ؟,billing_question,train,True
+379,INT-00380,ar,في كشف الحساب رسوم لـالأشعة وأنا سددتها، كيف أراجع المبلغ؟,billing_question,train,True
+380,INT-00381,ar,في كشف الحساب رسوم لـالعلاج الطبيعي وأنا سددتها، كيف أراجع المبلغ؟,billing_question,train,True
+381,INT-00382,ar,المبلغ اللي طلع في التطبيق لـالجلسة غير اللي طلبوه عند الكاشير، كيف أتأكد؟,billing_question,validation,True
+382,INT-00383,ar,المبلغ اللي طلع في التطبيق لـالكشف غير اللي طلبوه عند الكاشير، كيف أتأكد؟,billing_question,validation,True
+383,INT-00384,ar,المبلغ اللي طلع في التطبيق لـالفحص غير اللي طلبوه عند الكاشير، كيف أتأكد؟,billing_question,validation,True
+384,INT-00385,ar,مين أكلم عشان يصححون مبلغ فاتورة الكشف؟,billing_question,validation,True
+385,INT-00386,ar,مين أكلم عشان يصححون مبلغ فاتورة متابعة الضغط؟,billing_question,validation,True
+386,INT-00387,ar,مين أكلم عشان يصححون مبلغ فاتورة تحليل الغدة؟,billing_question,validation,True
+387,INT-00388,ar,طلع لي رصيد بالسالب بعد تعديل فاتورة الأشعة، هل يعني عندي مبلغ يرجع لي؟,billing_question,test,True
+388,INT-00389,ar,طلع لي رصيد بالسالب بعد تعديل فاتورة العلاج الطبيعي، هل يعني عندي مبلغ يرجع لي؟,billing_question,test,True
+389,INT-00390,ar,طلع لي رصيد بالسالب بعد تعديل فاتورة المختبر، هل يعني عندي مبلغ يرجع لي؟,billing_question,test,True
+390,INT-00391,en,Why did the bill for lab work go up?,billing_question,train,True
+391,INT-00392,en,Why did the bill for my visit go up?,billing_question,train,True
+392,INT-00393,en,Why did the bill for the session go up?,billing_question,train,True
+393,INT-00394,en,How did you calculate what I owe for the ER visit?,billing_question,train,True
+394,INT-00395,en,How did you calculate what I owe for neurology?,billing_question,train,True
+395,INT-00396,en,How did you calculate what I owe for the eye exam?,billing_question,train,True
+396,INT-00397,en,The same charge appears twice on my PT bill. Can you check it?,billing_question,train,True
+397,INT-00398,en,The same charge appears twice on my consultation bill. Can you check it?,billing_question,train,True
+398,INT-00399,en,The same charge appears twice on my monitoring bill. Can you check it?,billing_question,train,True
+399,INT-00400,en,"I paid at reception for the visit, but I still see a balance.",billing_question,train,True
+400,INT-00401,en,"I paid at reception for the scan, but I still see a balance.",billing_question,train,True
+401,INT-00402,en,"I paid at reception for the lab work, but I still see a balance.",billing_question,train,True
+402,INT-00403,en,What coinsurance rate did you use on my invoice for imaging?,billing_question,train,True
+403,INT-00404,en,What coinsurance rate did you use on my invoice for the dental visit?,billing_question,train,True
+404,INT-00405,en,What coinsurance rate did you use on my invoice for rehab?,billing_question,train,True
+405,INT-00406,en,Can I get an itemized bill for Sunday's visit?,billing_question,train,True
+406,INT-00407,en,Can I get an itemized bill for the specialist visit?,billing_question,train,True
+407,INT-00408,en,Can I get an itemized bill for the lab work?,billing_question,train,True
+408,INT-00409,en,My statement shows a charge for lab work that I already paid. How can I get it checked?,billing_question,train,True
+409,INT-00410,en,My statement shows a charge for imaging that I already paid. How can I get it checked?,billing_question,train,True
+410,INT-00411,en,My statement shows a charge for PT that I already paid. How can I get it checked?,billing_question,train,True
+411,INT-00412,en,The app shows a different amount for the session than I was charged at the desk. Which amount is right?,billing_question,validation,True
+412,INT-00413,en,The app shows a different amount for the appointment than I was charged at the desk. Which amount is right?,billing_question,validation,True
+413,INT-00414,en,The app shows a different amount for the test than I was charged at the desk. Which amount is right?,billing_question,validation,True
+414,INT-00415,en,Who do I contact to fix the amount billed for my visit?,billing_question,validation,True
+415,INT-00416,en,Who do I contact to fix the amount billed for blood pressure monitoring?,billing_question,validation,True
+416,INT-00417,en,Who do I contact to fix the amount billed for thyroid testing?,billing_question,validation,True
+417,INT-00418,en,My balance went negative after you adjusted the bill for imaging. Does that mean I'm due a refund?,billing_question,test,True
+418,INT-00419,en,My balance went negative after you adjusted the bill for therapy. Does that mean I'm due a refund?,billing_question,test,True
+419,INT-00420,en,My balance went negative after you adjusted the bill for lab work. Does that mean I'm due a refund?,billing_question,test,True
+420,INT-00421,ar,تأميني لسه ساري اليوم؟,eligibility_check,train,True
+421,INT-00422,ar,تأميني لسه ساري هالأسبوع؟,eligibility_check,train,True
+422,INT-00423,ar,تأميني لسه ساري هالشهر؟,eligibility_check,train,True
+423,INT-00424,ar,كيف أتأكد أن وثيقتي الجديدة تفعّلت بعد ما غيرت الوظيفة؟,eligibility_check,train,True
+424,INT-00425,ar,كيف أتأكد أن وثيقتي الجديدة تفعّلت بعد ما جددت التأمين؟,eligibility_check,train,True
+425,INT-00426,ar,كيف أتأكد أن وثيقتي الجديدة تفعّلت بعد ما نقلت الاشتراك؟,eligibility_check,train,True
+426,INT-00427,ar,بطاقة التأمين طالعة منتهية في التطبيق، هل عضويتي فعالة؟,eligibility_check,train,True
+427,INT-00428,ar,بطاقة التأمين طالعة منتهية في الموقع، هل عضويتي فعالة؟,eligibility_check,train,True
+428,INT-00429,ar,بطاقة التأمين طالعة منتهية في نظام العيادة، هل عضويتي فعالة؟,eligibility_check,train,True
+429,INT-00430,ar,ممكن تتأكدون إذا ولدي مضاف كمستفيد على الوثيقة؟,eligibility_check,train,True
+430,INT-00431,ar,ممكن تتأكدون إذا بنتي مضاف كمستفيد على الوثيقة؟,eligibility_check,train,True
+431,INT-00432,ar,ممكن تتأكدون إذا زوجي مضاف كمستفيد على الوثيقة؟,eligibility_check,train,True
+432,INT-00433,ar,وش تاريخ بداية التغطية إذا انضميت للتأمين الأحد؟,eligibility_check,train,True
+433,INT-00434,ar,وش تاريخ بداية التغطية إذا انضميت للتأمين قبل أسبوع؟,eligibility_check,train,True
+434,INT-00435,ar,وش تاريخ بداية التغطية إذا انضميت للتأمين منتصف الشهر؟,eligibility_check,train,True
+435,INT-00436,ar,تنتهي وثيقتي بكرة، أبي أعرف آخر يوم أقدر أستخدمها فيه.,eligibility_check,train,True
+436,INT-00437,ar,تنتهي وثيقتي نهاية الأسبوع، أبي أعرف آخر يوم أقدر أستخدمها فيه.,eligibility_check,train,True
+437,INT-00438,ar,تنتهي وثيقتي آخر الشهر، أبي أعرف آخر يوم أقدر أستخدمها فيه.,eligibility_check,train,True
+438,INT-00439,ar,جددت التأمين قبل يومين، هل ظهر التفعيل عندكم؟,eligibility_check,train,True
+439,INT-00440,ar,جددت التأمين قبل أسبوع، هل ظهر التفعيل عندكم؟,eligibility_check,train,True
+440,INT-00441,ar,جددت التأمين قبل ثلاثة أيام، هل ظهر التفعيل عندكم؟,eligibility_check,train,True
+441,INT-00442,ar,غيروا جهة التأمين في العمل هذا الشهر، كيف أعرف بأي وثيقة أنا مسجلة الحين؟,eligibility_check,validation,True
+442,INT-00443,ar,غيروا جهة التأمين في العمل من الأسبوع الماضي، كيف أعرف بأي وثيقة أنا مسجلة الحين؟,eligibility_check,validation,True
+443,INT-00444,ar,غيروا جهة التأمين في العمل يوم الأحد، كيف أعرف بأي وثيقة أنا مسجلة الحين؟,eligibility_check,validation,True
+444,INT-00445,ar,بطاقتي الإلكترونية اختفت من التطبيق، تقدرون تشوفون إذا العضوية للحين فعالة؟,eligibility_check,validation,True
+445,INT-00446,ar,بطاقتي الإلكترونية اختفت من حسابي، تقدرون تشوفون إذا العضوية للحين فعالة؟,eligibility_check,validation,True
+446,INT-00447,ar,بطاقتي الإلكترونية اختفت من بوابة الموظفين، تقدرون تشوفون إذا العضوية للحين فعالة؟,eligibility_check,validation,True
+447,INT-00448,ar,أبي أتأكد إذا كنت مؤهلة للاستفادة من التأمين بتاريخ الزيارة السابقة.,eligibility_check,test,True
+448,INT-00449,ar,أبي أتأكد إذا كنت مؤهلة للاستفادة من التأمين بتاريخ موعدي الجاي.,eligibility_check,test,True
+449,INT-00450,ar,أبي أتأكد إذا كنت مؤهلة للاستفادة من التأمين بتاريخ دخول المستشفى.,eligibility_check,test,True
+450,INT-00451,en,Is my insurance active today?,eligibility_check,train,True
+451,INT-00452,en,Is my insurance active this week?,eligibility_check,train,True
+452,INT-00453,en,Is my insurance active this month?,eligibility_check,train,True
+453,INT-00454,en,How can I confirm my new plan was activated after I changed jobs?,eligibility_check,train,True
+454,INT-00455,en,How can I confirm my new plan was activated after I renewed it?,eligibility_check,train,True
+455,INT-00456,en,How can I confirm my new plan was activated after I transferred enrollment?,eligibility_check,train,True
+456,INT-00457,en,My card shows as expired in the app. Am I still enrolled?,eligibility_check,train,True
+457,INT-00458,en,My card shows as expired in the portal. Am I still enrolled?,eligibility_check,train,True
+458,INT-00459,en,My card shows as expired in the clinic's system. Am I still enrolled?,eligibility_check,train,True
+459,INT-00460,en,Can you check whether my son is enrolled as a dependent?,eligibility_check,train,True
+460,INT-00461,en,Can you check whether my daughter is enrolled as a dependent?,eligibility_check,train,True
+461,INT-00462,en,Can you check whether my spouse is enrolled as a dependent?,eligibility_check,train,True
+462,INT-00463,en,When does coverage start if I enrolled on Sunday?,eligibility_check,train,True
+463,INT-00464,en,When does coverage start if I enrolled last week?,eligibility_check,train,True
+464,INT-00465,en,When does coverage start if I enrolled midmonth?,eligibility_check,train,True
+465,INT-00466,en,My policy expires tomorrow. What's the last day I can use it?,eligibility_check,train,True
+466,INT-00467,en,My policy expires at the end of the week. What's the last day I can use it?,eligibility_check,train,True
+467,INT-00468,en,My policy expires at the end of the month. What's the last day I can use it?,eligibility_check,train,True
+468,INT-00469,en,I renewed my plan two days ago. Does it show as active on your side?,eligibility_check,train,True
+469,INT-00470,en,I renewed my plan last week. Does it show as active on your side?,eligibility_check,train,True
+470,INT-00471,en,I renewed my plan three days ago. Does it show as active on your side?,eligibility_check,train,True
+471,INT-00472,en,My employer switched insurers this month. How can I check which policy I'm on now?,eligibility_check,validation,True
+472,INT-00473,en,My employer switched insurers last week. How can I check which policy I'm on now?,eligibility_check,validation,True
+473,INT-00474,en,My employer switched insurers on Sunday. How can I check which policy I'm on now?,eligibility_check,validation,True
+474,INT-00475,en,My digital card disappeared from the app. Can you confirm whether I'm still enrolled?,eligibility_check,validation,True
+475,INT-00476,en,My digital card disappeared from my account. Can you confirm whether I'm still enrolled?,eligibility_check,validation,True
+476,INT-00477,en,My digital card disappeared from the employee portal. Can you confirm whether I'm still enrolled?,eligibility_check,validation,True
+477,INT-00478,en,Can you verify my eligibility as of my last visit?,eligibility_check,test,True
+478,INT-00479,en,Can you verify my eligibility as of my upcoming appointment?,eligibility_check,test,True
+479,INT-00480,en,Can you verify my eligibility as of the day I was admitted?,eligibility_check,test,True

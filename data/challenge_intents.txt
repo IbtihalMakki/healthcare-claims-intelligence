@@ -1,0 +1,48 @@
+coverage_inquiry|ar|حطوا لي موعد موجات صوتية، الخدمة هذي محسوبة على الوثيقة؟
+coverage_inquiry|ar|أقدر أكشف عند طبيب العيون على حساب شركة التأمين؟
+coverage_inquiry|ar|عيادات الندى ضمن مزودي الخدمة لخطتي؟
+coverage_inquiry|ar|التأمين يشيل تكلفة الجبس ولا أحسب حسابها؟
+eligibility_check|ar|أبغى أتأكد إن اسمي مسجل بالنظام يوم الجمعة الجاية.
+eligibility_check|ar|بعد انتهاء عقدي، متى يتوقف اشتراكي الصحي؟
+eligibility_check|ar|هل زوجتي مسجلة معي كمستفيدة إلى الآن؟
+eligibility_check|ar|رقم عضويتي كان فعّال يوم دخلت المستشفى؟
+claim_status|ar|أبغى أشوف على أي مرحلة صار ملف التعويض اللي رفعته.
+claim_status|ar|المطالبة تبع الطوارئ باقي عند التدقيق أو خلصوها؟
+claim_status|ar|ما ظهر رقم متابعة للمطالبة، أقدر أعرف وين صارت؟
+claim_status|ar|أرسلنا ملف التعويض مرة ثانية، تحول للمعالجة؟
+prior_authorization|ar|تحتاج العيادة إذن من التأمين قبل تركب لي الجهاز؟
+prior_authorization|ar|الطلب اللي قدّمه المركز عشان يسمحون بالجلسات طلع له رقم؟
+prior_authorization|ar|يمكن أنقل موعد الأشعة للأسبوع الجاي، هل التصريح القديم ينفع؟
+prior_authorization|ar|الدكتور طلب إجراء، مين يرسل طلب الإذن قبل الموعد؟
+denial_reason|ar|ما صرفوا لي التعويض، وش اللي خلّى المطالبة تترفض؟
+denial_reason|ar|عندي خطاب فيه رمز رفض، وش تفسيره؟
+denial_reason|ar|وش البند اللي خلّاهم يستبعدون تكاليف الزيارة من التعويض؟
+denial_reason|ar|رفضوا ملف الطوارئ بعد المراجعة، أبي أعرف مبرر القرار.
+appeal_request|ar|أبغى أطلب مراجعة ثانية لقرار الرفض، من وين أبدأ؟
+appeal_request|ar|وين أرسل تظلّم بخصوص قرار مطالبة الركبة؟
+appeal_request|ar|فات أسبوع من يوم رفضوا المطالبة، باقي أقدر أعترض؟
+appeal_request|ar|كيف أضيف خطاب الطبيب لملف التظلم اللي فتحته؟
+document_requirement|ar|طلبوا استكمال ملف المطالبة، أي ورقة يبغون بالتحديد؟
+document_requirement|ar|أقدر أقدّم نسخة إلكترونية من خطاب التحويل بدل الأصل؟
+document_requirement|ar|هل تقرير الطبيب مطلوب مع مطالبة جلسة التأهيل؟
+document_requirement|ar|في نموذج المطالبة خانة للمرفقات، وش أحط فيها؟
+billing_question|ar|ليش سحبوا مني مبلغين على نفس الكشف؟
+billing_question|ar|هل أقدر أشوف تفاصيل رسوم التنويم بند بند؟
+billing_question|ar|قالوا فرق الفاتورة عليّ، كيف طلع الرقم؟
+billing_question|ar|سددت حصة المريض عند الاستقبال بس الرصيد للحين ظاهر عليّ.
+coverage_inquiry|en|Will my plan pay for an ultrasound at an in-network clinic?
+coverage_inquiry|en|Is splinting included in my benefits package?
+eligibility_check|en|Was my member ID active on the date I went in?
+eligibility_check|en|Can you confirm that my spouse is enrolled under my policy?
+claim_status|en|I resubmitted my claim yesterday. Has it moved to processing?
+claim_status|en|Can you tell me where my reimbursement file is in the review queue?
+prior_authorization|en|Do I have to obtain clearance from the insurer before the procedure?
+prior_authorization|en|I postponed my scan. Can I keep the same authorization?
+denial_reason|en|What was the stated basis for declining the reimbursement?
+denial_reason|en|Can you explain the rejection code on this claim notice?
+appeal_request|en|I want the plan to reconsider its denial. Where do I file the request?
+appeal_request|en|How can I attach my letter to an appeal that is already open?
+document_requirement|en|Which supporting paperwork belongs in my rehab claim submission?
+document_requirement|en|Can I send a digital copy of the referral instead of the original?
+billing_question|en|Can you explain why my statement shows two charges for one visit?
+billing_question|en|How was my share of the facility charge calculated?
